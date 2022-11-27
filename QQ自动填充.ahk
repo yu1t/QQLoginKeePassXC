@@ -36,8 +36,6 @@ WinActivate, ahk_exe QQ.exe
     SendInput {Raw}%pp%
     SendInput {Enter}
 
-    WinGetPos, X, Y, W, H, ahk_exe QQ.exe, text
-    MsgBox, QQ is at %X%`,%Y% and its size is %W%x%H%,%text%
 }
 #IfWinActive
 
