@@ -12,4 +12,4 @@ PCQQ客户端禁止粘贴密码登录，即使通过 KeePassXC 这种带有自�
 4. 在 KeePassXC 执行自动输入
 
 
-当然除了使用KeePassXC自动输入，手动粘贴也可以，先输入QQ，按<kbd>Tab</kbd> 键 再粘贴密码，点击 OK 按钮或按<kbd>Enter</kbd> 键即可。
+当然，除了使用KeePassXC自动输入，手动粘贴也可以，先输入QQ，按<kbd>Tab</kbd> 键 再粘贴密码，点击 OK 按钮或按<kbd>Enter</kbd> 键即可。
